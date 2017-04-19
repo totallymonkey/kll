@@ -1,0 +1,35 @@
+Name = baseMod;
+Version = 0.1;
+Author = "Andrew Davis";
+KLL = 0.3c;
+
+# Modified Date
+Date = 2017-04-17;
+
+U"Hash"					: U"Backslash";
+U"Backspace"			: U"BackTick";
+U"Backtick"				: U"Gui";
+
+U"E"         	     	: U"F";
+U"R"					: U"P";
+U"T"					: U"B";
+U"Y"					: U"J";
+U"U"					: U"L";
+U"I"					: U"U";
+U"O"					: U"Y";
+U"P"					: U"Semicolon";
+U"I"					: U"U";
+U"Backslash"         	: U"Backspace";
+
+U"CapsLock"				: U"Ctrl";
+U"S"         	     	: U"R";
+U"D"					: U"S";
+U"F"					: U"T";
+U"J"					: U"N";
+U"K"					: U"E";
+U"L"					: U"I";
+U"Semicolon"			: U"O";
+
+U"V"         	     	: U"D";
+U"B"					: U"V";
+U"N"					: U"K";
