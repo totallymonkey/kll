@@ -1,0 +1,24 @@
+Name = ICED programmer Layer;
+Version = 0.1;
+Author = "Andrew Davis";
+KLL = 0.3c;
+
+U"="          : '~';
+
+U"U"         : '{';
+U"I"         : '}';
+
+U"J"         : '(';
+U"K"         : ')';
+
+U"M"         : U"LBRACE";
+U"COMMA"     : U"RBRACE";
+
+# Bottom-Middle Row - Right
+U"Function7" : U"Lock1"; # Set Function7 to lock layer 1 (Colemak)
+
+# Bottom-Right Row
+U"Left"      : U"Home";
+U"Down"      : U"PageDown";
+U"Up"        : U"PageUp";
+U"Right"     : U"End";
